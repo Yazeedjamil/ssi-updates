@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "min_version": "1.1.3",
+  "version": "1.1.4",
+  "min_version": "1.1.4",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSI_app.zip",
-  "notes": "A quick one-time step: enter your email when the app starts.",
+  "notes": "Minor reliability improvements.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
