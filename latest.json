@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "min_version": "1.1.4",
+  "version": "1.1.5",
+  "min_version": "1.1.5",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSI_app.zip",
-  "notes": "Minor reliability improvements.",
+  "notes": "You can now change your email anytime from the About box.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
