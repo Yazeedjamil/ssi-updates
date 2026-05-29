@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "min_version": "1.1.1",
+  "version": "1.1.2",
+  "min_version": "1.1.2",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSI_app.zip",
-  "notes": "The update screen now appears immediately when the app starts."
+  "notes": "You can now share your workbook with the developer from the About box if you need help."
 }
