@@ -1,7 +1,7 @@
 {
   "version": "1.1.6",
   "min_version": "1.1.6",
-  "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSI_app.zip",
+  "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
   "notes": "Email verification: we send a quick code to confirm your address.",
   "paid_mode": false,
   "purchase_url": "",
