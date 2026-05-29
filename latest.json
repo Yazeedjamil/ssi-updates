@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "min_version": "1.1.6",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "Adds one-click automatic updates.",
+  "notes": "This update installs itself — just click Update now.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
