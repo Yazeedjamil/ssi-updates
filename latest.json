@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.0",
   "min_version": "1.1.6",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "This update installs itself — just click Update now.",
+  "notes": "1.2.0 — fuller HAP detailing (roofs, skylights, floor types, 2nd windows, infiltration in ACH or L/s) plus a cleaner copy-me template. Installs itself — just click Update now.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
