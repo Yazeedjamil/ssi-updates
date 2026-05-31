@@ -1,10 +1,10 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "min_version": "1.1.6",
-  "notice_id": "1.3.3",
-  "notice": "1.3.3 - background security & reliability improvements. Nothing changes in how you use SSI. Thanks for testing!",
+  "notice_id": "1.3.4",
+  "notice": "1.3.4 - clearer preview and a tidier template: Walls/Partitions show the real count, Roofs shows skylight details, the window columns are now 'Win 1/2 Qty' (window count, like HAP), and the sheets come as a clean bordered grid.",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "1.3.3 - background security & reliability improvements (hardens the app's link to its update / sign-in / feedback service). Nothing changes in how you use the app. Just click Update now.",
+  "notes": "1.3.4 - Walls/Partitions preview shows the real row count; Roofs preview shows Exposure / Slope / Skylight Qty / Skylight Construction; the window columns are now 'Win 1 Qty' / 'Win 2 Qty' (window count, matching HAP; old workbooks still load); and the Walls/Partitions sheets come as a clean bordered grid ready to fill. Just click Update now.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
