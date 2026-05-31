@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "min_version": "1.1.6",
-  "notice_id": "1.3.0-launch",
-  "notice": "1.3.0 is here: import an existing HAP project straight from its PDF report, save a copy of your workbook, and send feedback from the app. Thanks for testing SSI!",
+  "notice_id": "1.3.1",
+  "notice": "1.3.1 is here: clearer Walls & Partitions sheets with how-to notes, a tidier centered template, and a red highlight + Check that catch a repeated Wall #/Partition # in the same space before you push.",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "1.3.0 - import an existing HAP project straight from its PDF report (Import HAP report), Save a copy of the loaded workbook, Share feedback from the app, and new-report / update highlights on the toolbar. Just click Update now.",
+  "notes": "1.3.1 - a cleaner, clearer template: the Walls and Partitions sheets now have how-to notes, every row is formatted the same, all cells are centered, and long headers/notes are no longer cut off. New: a repeated Wall # or Partition # in the same space is highlighted in red and is caught by Check before push (HAP needs unique numbers; a space has at most 2 partitions, numbered 1 and 2). Just click Update now.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
