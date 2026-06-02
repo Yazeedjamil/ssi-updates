@@ -1,10 +1,10 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.8",
   "min_version": "1.1.6",
-  "notice_id": "1.3.7",
-  "notice": "1.3.7 remembers the construction + schedule names you type, and now checks your schedule names against HAP (like it does for constructions).",
+  "notice_id": "1.3.8",
+  "notice": "1.3.8 makes the HAP push much faster on big projects: updating a space now jumps straight to it by name instead of scrolling the list row by row.",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "1.3.7 - (1) the app now REMEMBERS the construction and schedule names you type, so they stick across launches and are used everywhere (Check / Dry run / Push). (2) Check and Dry run now verify your schedule names against HAP (Lighting / Equipment / People / Misc), just like wall / window / roof constructions - a wrong name is flagged before you push. (3) the template's Walls and Spaces sheets explain: leave the construction columns blank to use your app defaults. Just click Update now.",
+  "notes": "1.3.8 - faster HAP push, especially for large projects. When updating an existing space, the app now jumps STRAIGHT to it by name, instead of stepping down the Spaces list one row at a time (which got slow for spaces far down a long list - e.g. space #200 took ~20s just to reach). Reaching any space is now near-instant. Plus a small safe per-space speed trim. Just click Update now.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
