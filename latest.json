@@ -1,10 +1,10 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "min_version": "1.1.6",
-  "notice_id": "1.3.6",
-  "notice": "1.3.6 fixes a 'sharing violation' that could stop you saving your Excel while SSI was open. The app now releases the workbook as soon as it finishes reading it.",
+  "notice_id": "1.3.7",
+  "notice": "1.3.7 remembers the construction + schedule names you type, and now checks your schedule names against HAP (like it does for constructions).",
   "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "1.3.6 - fixes a file-lock bug: after previewing or uploading, SSI kept your Excel workbook open, so Excel could fail to save with 'Your changes could not be saved ... because of a sharing violation.' SSI now releases the file immediately after reading (both the preview and the HAP-upload paths). Just click Update now.",
+  "notes": "1.3.7 - (1) the app now REMEMBERS the construction and schedule names you type, so they stick across launches and are used everywhere (Check / Dry run / Push). (2) Check and Dry run now verify your schedule names against HAP (Lighting / Equipment / People / Misc), just like wall / window / roof constructions - a wrong name is flagged before you push. (3) the template's Walls and Spaces sheets explain: leave the construction columns blank to use your app defaults. Just click Update now.",
   "paid_mode": false,
   "purchase_url": "",
   "trial_message": ""
